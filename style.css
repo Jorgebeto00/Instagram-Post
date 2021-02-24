@@ -1,0 +1,19 @@
+.top h2{
+    font-size: 16px;
+}
+
+.top span{
+    color: darkgray;
+}
+
+.box img{
+    margin: 0;
+    margin-bottom: 4px;
+    max-width: 500px;
+   
+}
+p{
+    margin: 0;
+    padding: 15px;
+    
+}
