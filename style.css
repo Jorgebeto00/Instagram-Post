@@ -6,29 +6,15 @@ body{
     font-size: 14px;
 }
 
-.flex-container{
-    display: flex;
-    flex-flow: column;
-}
-
-header{
-    background: white;
-    width: 100%;
-    margin-bottom: 20px
+p{
+    margin: 0;
+    padding: 15px;
     
 }
 
-header h1{
-    width: 500px;
-    margin: 15px auto;
-}
-
-section{
-    background: rgb(211, 211, 211);
-    width: 100%;
+.flex-container{
     display: flex;
     flex-flow: column;
-    align-items: center;
 }
 
 .box{
@@ -41,10 +27,8 @@ section{
 
 .top{
     display: flex;
-    
     width: 100%;
     height: 50px;
-    
     padding: 0;
     border-bottom: darkgray;
     
@@ -78,10 +62,4 @@ section{
 
 #bookmark{
     float: right;
-}
-
-p{
-    margin: 0;
-    padding: 15px;
-    
 }
